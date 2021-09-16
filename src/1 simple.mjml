@@ -1,0 +1,88 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#333" font-family="-apple-system,
+BlinkMacSystemFont,'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif" font-size="15px" line-height="20px" />
+
+      <mj-class name="subheading" font-weight="600" padding-bottom="0" />
+
+      <mj-class name="no-top-bottom" padding-bottom="0" />
+
+      <mj-class name="bottom-padding-4" padding-bottom="4px;" />
+
+      <mj-class name="no-top-padding" padding-top="0" />
+
+      <mj-class name="service-title" font-size="20px" color="#fff" line-height="28px" />
+
+      <mj-class name="list-item" padding-left="40px" padding-top="0" /> </mj-attributes>
+
+    <mj-style inline="inline">
+      .link { color: #0089FF; border-bottom: 1px solid #CCDEFF; text-decoration: none;} .abbr { letter-spacing: 1px; } .list-item-2-lvl { padding-left: 24px; display: inline-block; padding-top: 6px; } strong {font-weight: 600} .no-wrap {white-space: nowrap;)
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#eee">
+
+    <mj-column>
+      <mj-spacer height="24px" /></mj-column>
+
+    <mj-wrapper background-color="#fff" border-radius="4px" border="1px solid #DDDDDD" padding="0">
+
+      <mj-section background-color="#0089FF" padding-top="4px" padding-bottom="4px" border-radius="4px 4px 0 0">
+
+        <mj-column>
+          <mj-text mj-class="service-title">Реферат по математике</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text>Михаил!</mj-text>
+
+          <mj-text>Линейное уравнение, исключая очевидный случай, раскручивает коллинеарный интеграл Фурье. Функция B(x,y), общеизвестно, детерменирована. Дифференциальное уравнение существенно стабилизирует детерминант.</mj-text>
+
+          <mj-text mj-class="subheading">Интеграл Гамильтона как мнимая единица</mj-text>
+
+          <mj-text mj-class="no-top-padding">Вектор создает экспериментальный абсолютно сходящийся ряд. Арифметическая прогрессия, конечно, развивает косвенный абсолютно сходящийся ряд. Для умножения векторов нажмите <span class="abbr">CTRL+ALT+DELETE</span>, а затем выберите <strong>Умножить</strong>. </mj-text>
+
+          <mj-text mj-class="subheading">Дивергенция векторного поля как постулат</mj-text>
+
+          <mj-text mj-class="no-top-padding">Нормальное распределение привлекает криволинейный интеграл. Продолжая до бесконечности ряд 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31 и т.д., имеем подмножество оправдывает предел функции, в итоге приходим <a class="link" href="https://https://yandex.ru/referats/?t=mathematics&s=71798">к логическому противоречию.</a></mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FCF5E8" padding-top="8px">
+        <mj-column>
+          <mj-text mj-class="subheading">Интеграл Гамильтона как мнимая единица</mj-text>
+
+          <mj-text mj-class="bottom-padding-4">См. также:</mj-text>
+
+          <mj-text mj-class="list-item">Лагранжева механика</mj-text>
+          
+          <mj-text mj-class="list-item">Классическая механика</mj-text>
+          
+          <mj-text mj-class="list-item">Динамические системы</mj-text>
+          
+          <mj-text mj-class="list-item">Уравнение Гамильтона — Якоби<br/>
+            <span class="list-item-2-lvl">Симплектическое пространство</span><br/>
+            <span class="list-item-2-lvl">Симплектическое многообразие</span>
+          </mj-text>
+
+      </mj-section>
+
+      <mj-section padding-top="8px" padding-bottom="8px" border-radius="0 0 4px 4px">
+        <mj-column>
+          <mj-text>Если у вас будут вопросы или проблемы, напишите письмо на <a class="link no-wrap" href="mailto:support@example.com">support@</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-column>
+    <mj-spacer height="40px" />
+    </mj-column>
+
+  </mj-body>
+
+</mjml>
