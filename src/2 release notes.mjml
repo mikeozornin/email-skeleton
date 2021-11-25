@@ -22,7 +22,7 @@ BlinkMacSystemFont,'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif" fo
     </mj-attributes>
 
     <mj-style inline="inline">
-      .link { color: #0089FF; border-bottom: 1px solid #CCDEFF; text-decoration: none;} .abbr { letter-spacing: 1px; } .list-item-2-lvl { padding-left: 24px; display: inline-block; padding-top: 6px; } strong {font-weight: 600} .no-wrap {white-space: nowrap;)
+      .link { color: #0089FF; border-bottom: 1px solid #CCDEFF; text-decoration: none;} .abbr { letter-spacing: 1px; } .list-item-2-lvl { padding-left: 24px; display: inline-block; padding-top: 6px; } strong {font-weight: 600} .no-wrap {white-space: nowrap;}
     </mj-style>
 
     <mj-breakpoint width="480px" />
